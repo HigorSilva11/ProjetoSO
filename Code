@@ -33,7 +33,7 @@ int main(void)
             system("cls");
             printf("\n\n\n\n\n\n\n");
             printf("\t####################################\n");
-            printf("\t# #\n");
+              printf("\t# #\n");
             printf("\t# Programa de Controle de Documentos #\n");
             printf("\t# #\n");
             printf("\t###################################\n\n");
